@@ -1,4 +1,4 @@
-I am a DPhil student in the [Numerical Analysis Group](https://www.maths.ox.ac.uk/groups/numerical-analysism) at the University of Oxford, and I am affiliated with Worcester College. I am also part of The Alan Turing Institute.
+I am a Postdoctoral Research Assistant at UCL. Prior to that, I was a DPhil student in the [Numerical Analysis Group](https://www.maths.ox.ac.uk/groups/numerical-analysism) at the University of Oxford, and I am affiliated with Worcester College. I am also part of The Alan Turing Institute.
 
 Here is the list of my projects:
 
